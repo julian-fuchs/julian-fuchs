@@ -2,12 +2,6 @@
     <img src="https://media1.tenor.com/m/qA9u4ETE66MAAAAC/hello-there-kenobi.gif" width="500px">
 </div>
 
-<div id="badges" align="center">
-    <a href="https://de.linkedin.com/in/jf-julianfuchs">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-</div>
-
 ---
 
 ### Languages:
@@ -20,6 +14,4 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40px" height="40px">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40px" height="40px">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40px" height="40px">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40px" height="40px">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40px" height="40px">
 </div>
